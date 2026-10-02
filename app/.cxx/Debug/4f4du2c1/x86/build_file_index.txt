@@ -1,0 +1,2 @@
+/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/CMakeLists.txt
+/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ndk-stl-config.cmake

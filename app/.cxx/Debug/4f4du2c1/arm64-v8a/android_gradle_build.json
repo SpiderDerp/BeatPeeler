@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/CMakeLists.txt",
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ndk-stl-config.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sreeram/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sreeram/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "echo::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "echo",
+      "output": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/build/intermediates/cxx/Debug/4f4du2c1/obj/arm64-v8a/libecho.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

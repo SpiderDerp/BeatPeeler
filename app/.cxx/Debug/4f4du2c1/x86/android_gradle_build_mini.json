@@ -1,0 +1,28 @@
+{
+  "buildFiles": [
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/CMakeLists.txt",
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ndk-stl-config.cmake"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sreeram/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sreeram/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "echo::@6890427a1f51a3e7e1df": {
+      "artifactName": "echo",
+      "abi": "x86",
+      "output": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/build/intermediates/cxx/Debug/4f4du2c1/obj/x86/libecho.so",
+      "runtimeFiles": []
+    }
+  }
+}

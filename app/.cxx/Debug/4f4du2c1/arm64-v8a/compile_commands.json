@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/audio_common.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_common.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_common.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/audio_main.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_main.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_main.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/audio_player.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_player.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_player.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/audio_recorder.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_recorder.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_recorder.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/debug_utils.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/debug_utils.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/debug_utils.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/kiss_fft/kiss_fft.c.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/kiss_fft/kiss_fft.c",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/kiss_fft/kiss_fft.c"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/ece420_lib.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ece420_lib.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ece420_lib.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/ece420_main.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ece420_main.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/ece420_main.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/audio_io.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_io.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/audio_io.cpp"
+},
+{
+  "directory": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/.cxx/Debug/4f4du2c1/arm64-v8a",
+  "command": "/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=aarch64-none-linux-android28 --sysroot=/Users/sreeram/Library/Android/sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Decho_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -std=c++11 -Wall -Werror -fno-limit-debug-info  -fPIC -o CMakeFiles/echo.dir/repet_separation.cpp.o -c /Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/repet_separation.cpp",
+  "file": "/Users/sreeram/Documents/School/ECE-420/FinalProject/finalproject/app/src/main/cpp/repet_separation.cpp"
+}
+]
